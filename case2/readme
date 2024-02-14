@@ -1,0 +1,3 @@
+Se na SubClasse não tiver o método construtor, 
+não é necessário incluir o método super(), 
+o método construtor da superClase vai autocriar-se.
