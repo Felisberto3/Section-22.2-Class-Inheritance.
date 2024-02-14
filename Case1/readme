@@ -1,0 +1,5 @@
+Quando uma classe é extendida por outra, ou seja, herda caracteristicas da 
+classe pai, o construtor da classe filha deve ser chamado o método super()
+antes de acessar quaquer this, doutro modo, não funciona.
+
+    
